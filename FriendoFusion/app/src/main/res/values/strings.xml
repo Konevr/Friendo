@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Friendo</string>
+    <string name="search">Search</string>
+    <string-array name="array_users">
+        <item>\n Name: Wanda Lawrence
+            \n Email: wanda.lawrence@uni.ac.uk
+            \n Course: Sports Science
+            \n</item>
+
+        <item>\n Name: Joan Baker
+            \n Email: joan.baker@uni.ac.uk
+            \n Course: Nutrition
+            \n</item>
+
+        <item>\n Name: Stewart Watson
+            \n Email: stewart.watson@uni.ac.uk
+            \n Course: Computer Science
+            \n</item>
+
+        <item>\n Name: Alexander Hamilton
+            \n Email: alexander.hamilton@uni.ac.uk
+            \n Course: Computer Science
+            \n</item>
+
+        <item>\n Name: Amy Glover
+            \n Email: amy.glover@uni.ac.uk
+            \n Course: Dance
+            \n</item>
+
+        <item>\n Name: Austin Mackay
+            \n Email: austin.mackay@uni.ac.uk
+            \n Course: Photography
+            \n</item>
+
+        <item>\n Name: Sam Lewis
+            \n Email: sam.lewis@uni.ac.uk
+            \n Course: History
+            \n</item>
+
+        <item>\n Name: Elizabeth Grant
+            \n Email: elizabeth.grant@uni.ac.uk
+            \n Course: Computer Engineering
+            \n</item>
+
+        <item>\n Name: John Ince
+            \n Email: john.ince@uni.ac.uk
+            \n Course: Computing
+            \n</item>
+
+        <item>\n Name: Jacob Manning
+            \n Email: jacob.manning@uni.ac.uk
+            \n Course: Fashion
+            \n</item>
+    </string-array>
+
+    <string-array name="array_users2">
+        <item>\n Name: Charles Nash
+            \n Email: charles.nash@uni.ac.uk
+            \n Course: Finance
+            \n</item>
+
+        <item>\n Name: Bernadette Short
+            \n Email: bernadette.short@uni.ac.uk
+            \n Course: Accounting
+            \n</item>
+
+        <item>\n Name: Isaac Hamilton
+            \n Email: isaac.hamilton@uni.ac.uk
+            \n Course: Mathematics
+            \n</item>
+
+        <item>\n Name: Robert Cornish
+            \n Email: robert.cornish@uni.ac.uk
+            \n Course: Cyber-Security
+            \n</item>
+    </string-array>
+</resources>
